@@ -3,4 +3,4 @@ my first project here
 ## project notes
 
 ### subheader
-getting better step by stepg
+#### lets get better
